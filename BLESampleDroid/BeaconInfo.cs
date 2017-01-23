@@ -6,6 +6,9 @@ using Java.Lang;
 
 namespace BLESampleDroid
 {
+    /// <summary>
+    /// Beacon info.
+    /// </summary>
     public class BeaconInfo : Java.Lang.Object, IParcelable
     {
 
